@@ -1,0 +1,10 @@
+G:\C#程序文件夹\RecognWinform\RecognWinform\bin\Debug\RecognWinform.exe.config
+G:\C#程序文件夹\RecognWinform\RecognWinform\obj\Debug\RecognWinform.csprojResolveAssemblyReference.cache
+G:\C#程序文件夹\RecognWinform\RecognWinform\obj\Debug\RecognWinform.Form1.resources
+G:\C#程序文件夹\RecognWinform\RecognWinform\obj\Debug\RecognWinform.Properties.Resources.resources
+G:\C#程序文件夹\RecognWinform\RecognWinform\obj\Debug\RecognWinform.csproj.GenerateResource.Cache
+G:\C#程序文件夹\RecognWinform\RecognWinform\bin\Debug\RecognWinform.exe
+G:\C#程序文件夹\RecognWinform\RecognWinform\bin\Debug\RecognWinform.pdb
+G:\C#程序文件夹\RecognWinform\RecognWinform\obj\Debug\RecognWinform.exe
+G:\C#程序文件夹\RecognWinform\RecognWinform\obj\Debug\RecognWinform.pdb
+G:\C#程序文件夹\RecognWinform\RecognWinform\obj\Debug\RecognWinform.Form2.resources
